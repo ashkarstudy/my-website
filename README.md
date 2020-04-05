@@ -2,7 +2,6 @@
 New updates
 
 
-Edit on example branch
 
 
 
