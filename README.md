@@ -1,8 +1,3 @@
 # my-website
-New updates
-
-
-
-
-
-update readme branch=update-readme
+This is a update for example
+removed all other lines
