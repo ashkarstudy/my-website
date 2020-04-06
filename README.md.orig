@@ -1,0 +1,11 @@
+# my-website
+This is a update for example
+removed all other lines
+
+<<<<<<< HEAD
+developer local change
+=======
+
+
+developer made a new change 
+>>>>>>> a216f2f7ede8d84902126b7ea87e883448858600
